@@ -9,20 +9,13 @@ I'm a passionate space scientist with a love for building innovative solutions a
 	<img src="https://images.squarespace-cdn.com/content/v1/6143c67d6918fd568c5e1e28/4613fec7-3a0c-4d72-9c90-caeccee501f5/studios.gif" alt="anime-banner" width="100%"/>
 </p>
 
-### 🌟 About Me
+### About Me
 
 🎓 I have a background in Planetary Sciences and Space Exploration from the Observatoire de Paris. <br>
 💼 I currently work at the European Space Agency as a YGT. <br>
 🔭 I'm working on the Juice and BepiColombo missions data analysis. <br>
 🌱 I'm currently learning Machine Learning. <br>
 📫 How to reach me: <a href='emma.vellard@outlook.fr'>emma.vellard@outlook.fr</a> or <a href='https://www.linkedin.com/in/emma-vellard/'>LinkedIn</a>. <br>
-
-### 👩‍💻 Technologies & Tools
-
-**Languages**: Python, C, Unix, JavaScript, HTML, CSS <br>
-**Frameworks**: TensorFlow, Keras <br>
-**Databases**: MySQL, PostgreSQL <br>
-**Tools**: Git <br>
   
 <!--
 
@@ -34,9 +27,16 @@ Check out my portfolio to see some of my work:
 
 -->
 
-### 🌍 Let's Connect!
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out!
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+</p>
 
 ---
 
