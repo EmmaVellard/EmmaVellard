@@ -11,7 +11,7 @@ I'm a passionate space scientist with a love for building innovative solutions a
 
 ### About Me
 
-🎓 I have a background in Planetary Sciences and Space Exploration from the Observatoire de Paris. <br>
+🎓 I have a background in Planetary Sciences and Space Exploration from the Observatoire de Paris and the Paris Saclay University. <br>
 💼 I currently work at the European Space Agency as a Young Graduate Trainee. <br>
 🔭 I'm working on the Juice and BepiColombo missions data analysis. <br>
 🌱 I'm currently learning Machine Learning. <br>
