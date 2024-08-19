@@ -40,4 +40,4 @@ Check out my portfolio to see some of my work:
 
 ---
 
-<p align="center">⭐️ From Emma Vellard <br> <a href="https://github.com/mistelwen">https://github.com/mistelwen</a></p>
+<p align="center">⭐️ From Emma Vellard <br> <a href="https://github.com/mistelwen">https://github.com/EmmaVellard</a></p>
