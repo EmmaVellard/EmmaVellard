@@ -39,5 +39,5 @@ Check out my portfolio to see some of my work:
 </p>
 
 ---
-
+<p align="center"><a href="https://emmavellard.com">Visit my website</a></p>
 <p align="center">⭐️ From Emma Vellard <br> <a href="https://github.com/mistelwen">https://github.com/EmmaVellard</a></p>
