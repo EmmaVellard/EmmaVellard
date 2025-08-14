@@ -14,7 +14,7 @@ I'm a passionate space scientist with a love for building innovative solutions a
 🎓 I have a background in Planetary Sciences and Space Exploration from the Observatoire de Paris and Paris-Saclay University.  
 🚀 Currently pursuing the Advanced Master TAS Astro at ISAE-Supaero.  
 💼 Former Young Graduate Trainee at the European Space Agency, where I worked on JUICE and BepiColombo mission data analysis.  
-🛠️ Developer of [JapaneseFlashcards](https://github.com/EmmaVellard/JapaneseFlashcards) and [SolarConflux](https://github.com/EmmaVellard/SolarConflux).  
+🛠️ Developer of [🎴 JapaneseFlashcards](https://github.com/EmmaVellard/JapaneseFlashcards) and [🛰️ SolarConflux](https://github.com/EmmaVellard/SolarConflux).  
 🌱 Currently learning Machine Learning.  
 📫 How to reach me: [emma.vellard@outlook.fr](mailto:emma.vellard@outlook.fr) or [LinkedIn](https://www.linkedin.com/in/emma-vellard/).  
 
