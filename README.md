@@ -2,7 +2,7 @@
 
 <div align='center'>
 Welcome to my GitHub profile! <br>
-I'm a passionate space scientist with a love for building innovative solutions and exploring new technologies.
+I am a space science researcher interested in developing tools and exploring new technologies for space missions.
 </div>
 <br>
 <p align="center">
@@ -11,11 +11,11 @@ I'm a passionate space scientist with a love for building innovative solutions a
 
 ### About Me
 
-🎓 I have a background in Planetary Sciences and Space Exploration from the Observatoire de Paris and Paris-Saclay University.  
-🚀 Currently pursuing the Advanced Master TAS Astro at ISAE-Supaero.  
-💼 Former Young Graduate Trainee at the European Space Agency, where I worked on JUICE and BepiColombo mission data analysis.  
-🛠️ Developer of [🎴 JapaneseFlashcards](https://github.com/EmmaVellard/JapaneseFlashcards) and [🛰️ SolarConflux](https://github.com/EmmaVellard/SolarConflux).  
-🌱 Currently learning Machine Learning.  
+🎓 I have a background in Planetary Sciences and Space Exploration from the Observatoire de Paris and Paris-Saclay University.  <br>
+🚀 Incoming research intern at **NASA Jet Propulsion Laboratory**, working on the study of subsurface oceans of Jupiter’s icy moons Europa and Ganymede. Currently pursuing the Advanced Master TAS Astro at ISAE-Supaero.<br>
+💼 Former Young Graduate Trainee at the **European Space Agency**, where I worked on JUICE and BepiColombo mission data analysis.  <br>
+🛠️ Developer of [🛰️ SolarConflux](https://github.com/EmmaVellard/SolarConflux).<br>
+🌱 Currently learning Machine Learning.  <br>
 📫 How to reach me: [emma.vellard@outlook.fr](mailto:emma.vellard@outlook.fr) or [LinkedIn](https://www.linkedin.com/in/emma-vellard/).  
 
 <!--
