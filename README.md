@@ -17,7 +17,7 @@ I am a space science researcher interested in planetary science, icy moons, spac
 
 🚀 Visiting Student Researcher at **NASA Jet Propulsion Laboratory**, working on the modeling of subsurface oceans and interior structures of Jupiter’s icy moons, with a focus on Europa and Ganymede. <br>
 
-🌊 My current work involves using and improving **PlanetProfile**, an open-source modeling framework for icy-world interiors, to better connect ocean composition, geophysical observables, and future measurements from **Europa Clipper** and **JUICE**. <br>
+🌊 My current work involves using and improving [🪐 PlanetProfile](https://github.com/vancesteven/PlanetProfile), an open-source modeling framework for icy-world interiors, to better connect ocean composition, geophysical observables, and future measurements from **Europa Clipper** and **JUICE**. <br>
 
 💼 Former Young Graduate Trainee at the **European Space Agency**, where I worked on **JUICE** mission data knowledge management and **BepiColombo** coordinated observation analysis. <br>
 
