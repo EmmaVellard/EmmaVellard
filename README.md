@@ -13,19 +13,19 @@ I am a space science researcher interested in planetary science, icy moons, spac
 
 ### About Me
 
-🎓 I have a background in Planetary Sciences and Space Exploration from the Paris Observatory and Paris-Saclay University, and I am currently pursuing a Space System Engineering Advanced Master (TAS Astro) at ISAE-SUPAERO. <br>
+🎓 I hold a background in Planetary Sciences and Space Exploration from Paris Observatory and Paris-Saclay University, and I am currently pursuing an Advanced Master's in Space Systems Engineering (TAS Astro) at ISAE-SUPAERO. <br>
 
-🚀 Visiting Student Researcher at **NASA Jet Propulsion Laboratory**, working on the modeling of subsurface oceans and interior structures of Jupiter’s icy moons, with a focus on Europa and Ganymede. <br>
+🚀 Visiting Student Researcher at **NASA Jet Propulsion Laboratory (JPL)**, working on numerical modelling of planetary interiors using thermodynamic and geophysical approaches. My research currently focuses on Europa, Ganymede, and the lunar interior. <br> <br>
 
-🌊 My current work involves using and improving [🪐 PlanetProfile](https://github.com/vancesteven/PlanetProfile), an open-source modeling framework for icy-world interiors, to better connect ocean composition, geophysical observables, and future measurements from **Europa Clipper** and **JUICE**. <br>
+🌍 I develop and improve open-source scientific tools for planetary interior modelling, including [🪐 PlanetProfile](https://github.com/vancesteven/PlanetProfile) for interior structure modelling and [🌋 Planetary EOS Lab](https://github.com/EmmaVellard/planetary-eos-lab), a toolkit that streamlines Perple_X workflows for thermodynamic calculations. <br>
 
-💼 Former Young Graduate Trainee at the **European Space Agency**, where I worked on **JUICE** mission data knowledge management and **BepiColombo** coordinated observation analysis. <br>
+💼 Former Young Graduate Trainee at the **European Space Agency (ESA)**, where I contributed to the **JUICE** mission through scientific knowledge management and developed [🛰️ SolarConflux](https://github.com/EmmaVellard/SolarConflux), a multi-spacecraft alignment tool supporting coordinated observations for **BepiColombo**. <br>
 
-🛠️ Developer of [🛰️ SolarConflux](https://github.com/EmmaVellard/SolarConflux), a tool for identifying multi-spacecraft geometrical alignments to support coordinated solar observations. <br>
+🛠️ Creator of several open-source tools dedicated to planetary science, scientific software, and research automation. <br>
 
-🌱 Currently expanding my skills in scientific Python, geophysical modeling, Bayesian inference, and machine learning. <br>
+🌱 My research interests include planetary geophysics, numerical modelling, mineral physics, thermodynamics, inverse methods, and scientific machine learning. <br>
 
-📫 How to reach me: [emma.vellard@outlook.fr](mailto:emma.vellard@outlook.fr) or [LinkedIn](https://www.linkedin.com/in/emma-vellard/).  
+📫 Reach me at [emma.vellard@outlook.fr](mailto:emma.vellard@outlook.fr) or connect on [LinkedIn](https://www.linkedin.com/in/emma-vellard/).
 
 <!--
 
