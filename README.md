@@ -15,7 +15,7 @@ I am a space science researcher interested in planetary science, icy moons, spac
 
 🎓 I hold a background in Planetary Sciences and Space Exploration from Paris Observatory and Paris-Saclay University, and I am currently pursuing an Advanced Master's in Space Systems Engineering (TAS Astro) at ISAE-SUPAERO. <br>
 
-🚀 Visiting Student Researcher at **NASA Jet Propulsion Laboratory (JPL)**, working on numerical modelling of planetary interiors using thermodynamic and geophysical approaches. My research currently focuses on Europa, Ganymede, and the lunar interior. <br> <br>
+🚀 Visiting Student Researcher at **NASA Jet Propulsion Laboratory (JPL)**, working on numerical modelling of planetary interiors using thermodynamic and geophysical approaches. My research currently focuses on Europa, Ganymede, and the lunar interior. <br>
 
 🌍 I develop and improve open-source scientific tools for planetary interior modelling, including [🪐 PlanetProfile](https://github.com/vancesteven/PlanetProfile) for interior structure modelling and [🌋 Planetary EOS Lab](https://github.com/EmmaVellard/planetary-eos-lab), a toolkit that streamlines Perple_X workflows for thermodynamic calculations. <br>
 
